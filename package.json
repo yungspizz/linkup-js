@@ -1,0 +1,15 @@
+{
+  "name": "linkup",
+  "version": "1.0.0",
+  "description": "simple http node framework for building rest apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spizzy",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.11.0",
+    "ws": "^8.16.0"
+  }
+}
